@@ -5,7 +5,7 @@
 }
 .heros{
     background-color: rgba(17, 56, 17, 0.897);
-    height: 90vh;
+    height: 70vh;
     padding-top: 30px;
 }
 .heros-inner{
@@ -179,7 +179,7 @@ flex-direction: column;
 }
 .heros{
     width: 100vw;
-    height: 80vh;
+    height: 95vh;
 }
 .heros button{
     padding: 10px 15px; 
