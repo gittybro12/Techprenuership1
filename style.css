@@ -151,15 +151,6 @@ padding-bottom: 30px;
 .images-grid{
  display: flex;
 }
-
-
-
-
-
-
-
-
-
 @media screen and (max-width: 1270px){
     .product-dec h1{
         font-size: 30px;
